@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @7weekrede
 - 👀 I’m interested in Cyber Security, Penetration Testing, Development with Python, Blockchain Development
-- 🌱 I’m currently learning Python, Offensive Pentesting
+- 🌱 I’m currently learning Python,Data Structures, Algorithms, Offensive Pentesting, 
 - 💞️ I’m looking to collaborate on Cyber Security Engineering, Ethical hacking Projects Development
 - 📫 Contact me : sathwiknarine@gmail.com
 
